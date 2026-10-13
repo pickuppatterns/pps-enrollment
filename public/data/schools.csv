@@ -1,142 +1,142 @@
 school_id,name,lat,lon,zoom,pitch,bearing,description,coord_source
-1243,Lane Middle School,,,,,,,
-1277,Jackson Middle School,,,,,,,
-1278,Markham Elementary School,,,,,,,
-1279,"Morrison Child & Family Services, Hand In Hand",,,,,,,
-1281,Nickerson Center ADTP,,,,,,,
-1299,Rieke Elementary School,,,,,,,
-1363,da Vinci Middle School,,,,,,,
-1364,Winterhaven School,,,,,,,
-1628,De Paul Treatment Centers Inc,,,,,,,
-1648,Counterpoint School,,,,,,,
-1669,Rosemary Anderson Prep,,,,,,,
-1671,Serendipity Center,,,,,,,
-1803,Mt Scott Park Center for Learning,,,,,,,
-1811,Albina Youth Opportunity Center,,,,,,,
-1815,Portland International Community School,,,,,,,
-1816,Portland Opportunities Industrial Center,,,,,,,
-1820,Quest Schools Inc,,,,,,,
-1821,Open Meadow High School,,,,,,,
-1835,Youth Progress Learning Center,,,,,,,
-1871,SERP Enterprises Inc,,,,,,,
-1875,Youth Employment Institute,,,,,,,
-1885,Portland Youth Builders,,,,,,,
-2275,"Morrison Child & Family Services, Breakthrough",,,,,,,
-2413,Forest Park Elementary School,,,,,,,
-2506,Portland Community College,,,,,,,
-2752,ILP Night School,,,,,,,
-2761,PCC LEP,,,,,,,
-2762,PCC GED,,,,,,,
-2763,PCC HS Completion,,,,,,,
-2774,YEI Teen Parent,,,,,,,
-3012,New Avenues for Youth,,,,,,,
-3021,Open School North,,,,,,,
-3025,Oregon Outreach Inc McCoy Academy,,,,,,,
-3451,Opal School of the Portland Children's Museum,,,,,,,
-3496,Pathfinder Academy,,,,,,,
-3584,Edwards School,,,,,,,
-3616,Trillium,,,,,,,
-3991,Emerson School,,,,,,,
-4153,BizTech High School,,,,,,,
-4154,Pauling Academy of Integrated Sciences,,,,,,,
-4156,Renaissance Arts Academy,,,,,,,
-4212,"Self Enhancement, Inc/SEI Academy",,,,,,,
-4400,Portland Arthur Academy Charter School,,,,,,,
-4405,Wildflowers,,,,,,,
-4413,Mt Scott Park Center for Learning Middle School,,,,,,,
-4464,Leadership and Entrepreneurship Public Charter High School,,,,,,,
-4477,"SE Works, Inc.",,,,,,,
-4507,Alliance High School,,,,,,,
-4508,Outside In-Urban Ed,,,,,,,
-4522,Park Academy,,,,,,,
-4534,Portland Village School,,,,,,,
-4587,NAYA Many Nations Academy (MNA),,,,,,,
-4633,Insight School of Oregon - Online Alternative  High School,,,,,,,
-4640,Creative Science School,,,,,,,
-4826,Victory Academy,,,,,,,
-5060,Le Monde French Immersion Public Charter School,,,,,,,
-5218,Kairos PDX,,,,,,,
-5270,Providence Pediatric Nursing Facility,,,,,,,
-5305,SAGE Youth Residential Program,,,,,,,
-5427,Rose City Park,,,,,,,
-5817,Clark Elementary School,,,,,,,
-5876,Rosemary Anderson High School - New Columbia,,,,,,,
-5877,Rosemary Anderson High School - Lents,,,,,,,
-5878,Rosemary Anderson Middle School,,,,,,,
-822,Abernethy Elementary School,,,,,,,
-823,Ainsworth Elementary School,,,,,,,
-824,Alameda Elementary School,,,,,,,
-826,Arleta Elementary School,,,,,,,
-827,Astor Elementary School,,,,,,,
-828,Atkinson Elementary School,,,,,,,
-829,Rosa Parks Elementary School,,,,,,,
-830,Beach Elementary School,,,,,,,
-831,Beaumont Middle School,,,,,,,
-833,Boise-Eliot Elementary School,,,,,,,
-834,Bridger Creative Science School,,,,,,,
-835,Bridlemile Elementary School,,,,,,,
-837,Buckman Elementary School,,,,,,,
-838,Capitol Hill Elementary School,,,,,,,
-839,Chapman Elementary School,,,,,,,
-840,Chief Joseph Elementary School,,,,,,,
-841,César Chávez K-8 School,,,,,,,
-842,Harrison Park School,,,,,,,
-843,Creston Elementary School,,,,,,,
-844,Duniway Elementary School,,,,,,,
-847,Faubion Elementary School,,,,,,,
-849,George Middle School,,,,,,,
-850,Glencoe Elementary School,,,,,,,
-852,Gray Middle School,,,,,,,
-854,Grout Elementary School,,,,,,,
-855,Hayhurst Elementary School,,,,,,,
-857,Beverly Cleary School,,,,,,,
-858,Hosford Middle School,,,,,,,
-860,Humboldt Elementary School,,,,,,,
-861,Irvington Elementary School,,,,,,,
-862,James John Elementary School,,,,,,,
-863,Kellogg Middle School,,,,,,,
-864,Kelly Elementary School,,,,,,,
-866,Dr. Martin Luther King Jr. School,,,,,,,
-868,Laurelhurst Elementary School,,,,,,,
-869,Lee Elementary School,,,,,,,
-870,Lent Elementary School,,,,,,,
-871,Lewis Elementary School,,,,,,,
-872,Llewellyn Elementary School,,,,,,,
-873,Maplewood Elementary School,,,,,,,
-875,Marysville Elementary School,,,,,,,
-877,Mt Tabor Middle School,,,,,,,
-878,Ockley Green Middle School,,,,,,,
-879,Peninsula Elementary School,,,,,,,
-880,Souther School,,,,,,,
-883,Richmond Elementary School,,,,,,,
-884,Rigler Elementary School,,,,,,,
-885,Roseway Heights School,,,,,,,
-886,Sabin Elementary School,,,,,,,
-887,Scott Elementary School,,,,,,,
-888,Sellwood Middle School,,,,,,,
-889,Sitton Elementary School,,,,,,,
-890,Skyline Elementary School,,,,,,,
-892,Stephenson Elementary School,,,,,,,
-893,Sunnyside Environmental School,,,,,,,
-894,Harriet Tubman Middle School,,,,,,,
-895,Vernon Elementary School,,,,,,,
-896,Vestal Elementary School,,,,,,,
-898,West Sylvan Middle School,,,,,,,
-900,Whitman Elementary School,,,,,,,
-902,Woodlawn Elementary School,,,,,,,
-903,Woodmere Elementary School,,,,,,,
-904,Woodstock Elementary School,,,,,,,
-906,Benson Polytechnic High School,,,,,,,
-907,Boys & Girls Aid Society/Johns Landing School,,,,,,,
-908,Kuumba School,,,,,,,
-909,Cleveland High School,,,,,,,
-911,Franklin High School,,,,,,,
-912,Grant High School,,,,,,,
-913,Jefferson High School,,,,,,,
-914,Lincoln High School,,,,,,,
-915,Leodis V. McDaniel High School,,,,,,,
-916,Metropolitan Learning Center,,,,,,,
-918,Roosevelt High School,,,,,,,
-921,White Shield Home,,,,,,,
-922,Ida B. Wells-Barnett High School,,,,,,,
-923,Rosemont School,,,,,,,
+1243,Lane Middle School,45.4713,-122.6016,,,,,nces-exact
+1277,Jackson Middle School,45.448557,-122.714215,,,,,nces-exact
+1278,Markham Elementary School,45.4492,-122.7255,,,,,nces-exact
+1279,"Morrison Child & Family Services, Hand In Hand",,,,,,,missing
+1281,Nickerson Center ADTP,,,,,,,missing
+1299,Rieke Elementary School,45.4765,-122.6949,,,,,nces-exact
+1363,da Vinci Middle School,45.5246,-122.6402,,,,,nces-exact
+1364,Winterhaven School,45.4949,-122.6509,,,,,nces-exact
+1628,De Paul Treatment Centers Inc,,,,,,,missing
+1648,Counterpoint School,,,,,,,missing
+1669,Rosemary Anderson Prep,,,,,,,missing
+1671,Serendipity Center,,,,,,,missing
+1803,Mt Scott Park Center for Learning,,,,,,,missing
+1811,Albina Youth Opportunity Center,,,,,,,missing
+1815,Portland International Community School,,,,,,,missing
+1816,Portland Opportunities Industrial Center,,,,,,,missing
+1820,Quest Schools Inc,,,,,,,missing
+1821,Open Meadow High School,,,,,,,missing
+1835,Youth Progress Learning Center,,,,,,,missing
+1871,SERP Enterprises Inc,,,,,,,missing
+1875,Youth Employment Institute,,,,,,,missing
+1885,Portland Youth Builders,,,,,,,missing
+2275,"Morrison Child & Family Services, Breakthrough",,,,,,,missing
+2413,Forest Park Elementary School,45.542628,-122.777668,,,,,nces-exact
+2506,Portland Community College,,,,,,,missing
+2752,ILP Night School,,,,,,,missing
+2761,PCC LEP,,,,,,,missing
+2762,PCC GED,,,,,,,missing
+2763,PCC HS Completion,,,,,,,missing
+2774,YEI Teen Parent,,,,,,,missing
+3012,New Avenues for Youth,,,,,,,missing
+3021,Open School North,,,,,,,missing
+3025,Oregon Outreach Inc McCoy Academy,,,,,,,missing
+3451,Opal School of the Portland Children's Museum,,,,,,,missing
+3496,Pathfinder Academy,,,,,,,missing
+3584,Edwards School,,,,,,,missing
+3616,Trillium,,,,,,,missing
+3991,Emerson School,45.510267,-122.676902,,,,,nces-exact
+4153,BizTech High School,,,,,,,missing
+4154,Pauling Academy of Integrated Sciences,,,,,,,missing
+4156,Renaissance Arts Academy,,,,,,,missing
+4212,"Self Enhancement, Inc/SEI Academy",,,,,,,missing
+4400,Portland Arthur Academy Charter School,45.5168,-122.586,,,,,nces-exact
+4405,Wildflowers,,,,,,,missing
+4413,Mt Scott Park Center for Learning Middle School,,,,,,,missing
+4464,Leadership and Entrepreneurship Public Charter High School,,,,,,,missing
+4477,"SE Works, Inc.",,,,,,,missing
+4507,Alliance High School,45.526304,-122.650352,,,,,nces-exact
+4508,Outside In-Urban Ed,,,,,,,missing
+4522,Park Academy,,,,,,,missing
+4534,Portland Village School,45.489275,-122.672989,,,,,nces-exact
+4587,NAYA Many Nations Academy (MNA),,,,,,,missing
+4633,Insight School of Oregon - Online Alternative  High School,,,,,,,missing
+4640,Creative Science School,,,,,,,missing
+4826,Victory Academy,,,,,,,missing
+5060,Le Monde French Immersion Public Charter School,45.522606,-122.644656,,,,,nces-exact
+5218,Kairos PDX,45.549357,-122.66733,,,,,nces-exact
+5270,Providence Pediatric Nursing Facility,,,,,,,missing
+5305,SAGE Youth Residential Program,,,,,,,missing
+5427,Rose City Park,45.539379,-122.604594,,,,,nces-exact
+5817,Clark Elementary School,45.513709,-122.570042,,,,,nces-exact
+5876,Rosemary Anderson High School - New Columbia,,,,,,,missing
+5877,Rosemary Anderson High School - Lents,,,,,,,missing
+5878,Rosemary Anderson Middle School,,,,,,,missing
+822,Abernethy Elementary School,45.5058,-122.6514,,,,,nces-exact
+823,Ainsworth Elementary School,45.5098,-122.6996,,,,,nces-exact
+824,Alameda Elementary School,45.5478,-122.6374,,,,,nces-exact
+826,Arleta Elementary School,45.4862,-122.5961,,,,,nces-exact
+827,Astor Elementary School,45.5788,-122.7297,,,,,nces-exact
+828,Atkinson Elementary School,45.505026,-122.604783,,,,,nces-exact
+829,Rosa Parks Elementary School,45.58786,-122.712724,,,,,nces-exact
+830,Beach Elementary School,45.5581,-122.6855,,,,,nces-exact
+831,Beaumont Middle School,45.5489,-122.6208,,,,,nces-exact
+833,Boise-Eliot Elementary School,45.5479,-122.6727,,,,,nces-exact
+834,Bridger Creative Science School,45.5106,-122.5821,,,,,nces-exact
+835,Bridlemile Elementary School,45.4918,-122.7243,,,,,nces-exact
+837,Buckman Elementary School,45.5204,-122.649,,,,,nces-exact
+838,Capitol Hill Elementary School,45.4643,-122.6957,,,,,nces-exact
+839,Chapman Elementary School,45.5332,-122.7055,,,,,nces-exact
+840,Chief Joseph Elementary School,45.5729,-122.6915,,,,,nces-exact
+841,César Chávez K-8 School,45.5844,-122.7195,,,,,nces-fuzzy
+842,Harrison Park School,45.506762,-122.574963,,,,,nces-exact
+843,Creston Elementary School,45.4954,-122.6147,,,,,nces-exact
+844,Duniway Elementary School,45.4687,-122.6289,,,,,nces-exact
+847,Faubion Elementary School,45.570756,-122.634699,,,,,nces-exact
+849,George Middle School,45.5961,-122.7367,,,,,nces-exact
+850,Glencoe Elementary School,45.5172,-122.6108,,,,,nces-exact
+852,Gray Middle School,45.4824,-122.7013,,,,,nces-exact
+854,Grout Elementary School,45.490972,-122.633139,,,,,nces-exact
+855,Hayhurst Elementary School,45.4804,-122.729,,,,,nces-exact
+857,Beverly Cleary School,45.5369,-122.6315,,,,,nces-exact
+858,Hosford Middle School,45.5062,-122.6371,,,,,nces-exact
+860,Humboldt Elementary School,,,,,,,missing
+861,Irvington Elementary School,45.5402,-122.652,,,,,nces-exact
+862,James John Elementary School,45.5904,-122.752,,,,,nces-exact
+863,Kellogg Middle School,45.498264,-122.591499,,,,,nces-exact
+864,Kelly Elementary School,45.4729,-122.5704,,,,,nces-exact
+866,Dr. Martin Luther King Jr. School,45.5581,-122.659,,,,,nces-exact
+868,Laurelhurst Elementary School,45.5291,-122.6198,,,,,nces-exact
+869,Lee Elementary School,45.5381,-122.5677,,,,,nces-exact
+870,Lent Elementary School,45.4855,-122.5639,,,,,nces-exact
+871,Lewis Elementary School,45.4739,-122.6179,,,,,nces-exact
+872,Llewellyn Elementary School,45.4772,-122.6523,,,,,nces-exact
+873,Maplewood Elementary School,45.4709,-122.7297,,,,,nces-exact
+875,Marysville Elementary School,45.4869,-122.5835,,,,,nces-exact
+877,Mt Tabor Middle School,45.521059,-122.604261,,,,,nces-exact
+878,Ockley Green Middle School,45.567,-122.6807,,,,,nces-exact
+879,Peninsula Elementary School,45.5819,-122.700338,,,,,nces-exact
+880,Souther School,,,,,,,missing
+883,Richmond Elementary School,45.5064,-122.6199,,,,,nces-exact
+884,Rigler Elementary School,45.556,-122.6077,,,,,nces-exact
+885,Roseway Heights School,45.544,-122.5876,,,,,nces-exact
+886,Sabin Elementary School,45.5521,-122.6478,,,,,nces-exact
+887,Scott Elementary School,45.5552,-122.5943,,,,,nces-exact
+888,Sellwood Middle School,45.4626,-122.6506,,,,,nces-exact
+889,Sitton Elementary School,45.6,-122.7584,,,,,nces-exact
+890,Skyline Elementary School,45.6077,-122.856472,,,,,nces-exact
+892,Stephenson Elementary School,45.4409,-122.704,,,,,nces-exact
+893,Sunnyside Environmental School,45.5146,-122.6289,,,,,nces-exact
+894,Harriet Tubman Middle School,45.539001,-122.668809,,,,,nces-exact
+895,Vernon Elementary School,45.5624,-122.6439,,,,,nces-exact
+896,Vestal Elementary School,45.5246,-122.5796,,,,,nces-exact
+898,West Sylvan Middle School,45.504712,-122.760447,,,,,nces-exact
+900,Whitman Elementary School,45.4681,-122.5873,,,,,nces-exact
+902,Woodlawn Elementary School,45.575,-122.6532,,,,,nces-exact
+903,Woodmere Elementary School,45.4751,-122.5824,,,,,nces-exact
+904,Woodstock Elementary School,45.4821,-122.612,,,,,nces-exact
+906,Benson Polytechnic High School,45.527267,-122.652094,,,,,nces-exact
+907,Boys & Girls Aid Society/Johns Landing School,,,,,,,missing
+908,Kuumba School,,,,,,,missing
+909,Cleveland High School,45.4985,-122.6391,,,,,nces-exact
+911,Franklin High School,45.502271,-122.606886,,,,,nces-exact
+912,Grant High School,45.539,-122.6268,,,,,nces-exact
+913,Jefferson High School,45.560536,-122.671936,,,,,nces-exact
+914,Lincoln High School,45.519344,-122.691262,,,,,nces-exact
+915,Leodis V. McDaniel High School,45.541967,-122.580962,,,,,nces-exact
+916,Metropolitan Learning Center,45.5266,-122.6933,,,,,nces-exact
+918,Roosevelt High School,45.58911,-122.738383,,,,,nces-exact
+921,White Shield Home,,,,,,,missing
+922,Ida B. Wells-Barnett High School,45.477443,-122.689848,,,,,nces-exact
+923,Rosemont School,,,,,,,missing
