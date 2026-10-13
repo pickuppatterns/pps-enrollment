@@ -4,6 +4,8 @@ __pycache__/
 
 # Source spreadsheets (re-downloadable with --download)
 raw/
+nces_school_locations.csv
+*.zip
 
 # Node / Vite (for the front end later)
 node_modules/
